@@ -17,13 +17,13 @@ const customer = {
 };
 
 const cart = {
-    cartid: '68sdife7-e56d-5135-abs9-b5632a5sdf5b6'
-    userid: '68sdife7-s59r-5135-abq5-b5681d5sdf5b6'
+    cartid: '68sdife7-e56d-5135-abs9-b5632a5sdf5b6',
+    userid: '68sdife7-s59r-5135-abq5-b5681d5sdf5b6',
 };
 
 const cartitems = {
-    cartid: '68sdife7-e56d-5135-abs9-b5632a5sdf5b6'
-    Quantity: 3
+    cartid: '68sdife7-e56d-5135-abs9-b5632a5sdf5b6',
+    Quantity: 3,
 };
 
 console.log('item', item);
