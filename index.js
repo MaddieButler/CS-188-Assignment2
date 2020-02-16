@@ -23,7 +23,7 @@ const cart = {
 
 const cartitems = {
     cartid: '68sdife7-e56d-5135-abs9-b5632a5sdf5b6'
-    quantity: 3
+    Quantity: 3
 };
 
 console.log('item', item);
